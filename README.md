@@ -10,5 +10,4 @@
 查看[ RSS-Translation ](https://bomianmian.github.io/RSS-Translation)使用[ 教程 ](https://www.tjsky.net/tutorial/644)修改自[ Rss-translate ](https://github.com/rcy1314/Rss-Translation/)
 
 ## 已转换翻译源
-
  - source001 [https://javboys.com/feed/](https://javboys.com/feed/) -> [javboys-cn](rss/javboys-cn)
