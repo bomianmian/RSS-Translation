@@ -11,5 +11,4 @@
 
 ## 已转换翻译源
  - source001 [https://javboys.com/feed/](https://javboys.com/feed/) -> [javboys-cn](rss/javboys-cn)
- - source001 [https://javboys.com/feed/](https://javboys.com/feed/) -> [javboys-cn](rss/javboys-cn)
  - source002 [https://www.engadget.com/rss.xml](https://www.engadget.com/rss.xml) -> [Engadget-cn](rss/Engadget-cn)
